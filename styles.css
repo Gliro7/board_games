@@ -1,0 +1,95 @@
+body {
+    display: flex;
+    flex-direction: column;
+    border: 0px;
+    margin: 0px;
+}
+
+img {
+    max-width: 500px;
+}
+.header img {
+    max-width: 50px;
+    padding-bottom: 8px;
+}
+.header {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: darkblue;
+    margin: 0px;
+    border: 0px;
+    padding-top: 8px;
+}
+
+ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.one {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+    gap: 50px;
+    font-size: larger;
+    background-color: rgb(225, 170, 68);
+}
+
+.one img {
+    max-width: 220px;
+}
+h2 {
+    margin: 0px;
+    padding: 16px;
+    text-align: center;
+    background-color: beige;
+}
+.games {
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center; 
+    text-align: center;
+    font-size: large;
+    background-color: beige;
+}
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+    background-color: aqua;
+    margin: 0px;
+    padding: 16px;
+}
+
+.quote {
+    font-size: larger;
+    text-align: center;
+    font-style: italic;
+    background-color: aquamarine;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.recommend {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    padding: 48px;
+    background-color: bisque;
+}
+
+footer {
+    text-align: center;
+    padding: 16px;
+    background-color: darkblue;
+    color: white;
+}
