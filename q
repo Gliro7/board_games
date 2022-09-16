@@ -1,0 +1,35 @@
+[33mcommit 670656aca3dd3e6b337dde02b233bc8a90e93dac[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Gliro7 <glinsek.rok3@gmail.com>
+Date:   Fri Sep 16 19:30:11 2022 +0200
+
+    Add monopoly and russian schnaps rules
+
+[33mcommit 2943a2fb4fef03dd55b2ccf253d5461ff540dd21[m
+Author: Gliro7 <glinsek.rok3@gmail.com>
+Date:   Fri Sep 16 19:29:11 2022 +0200
+
+    Add go to homepage button
+
+[33mcommit 70c8508e0767539d6c28d1031a4f01ccac35d720[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Gliro7 <glinsek.rok3@gmail.com>
+Date:   Thu Sep 15 21:20:00 2022 +0200
+
+    Add other.html
+
+[33mcommit f2526fac2b51f0cfedb5aa40ba29d595cfdf455a[m
+Author: Gliro7 <glinsek.rok3@gmail.com>
+Date:   Thu Sep 15 21:15:24 2022 +0200
+
+    Add css to board_games
+
+[33mcommit 41db080bb366cbd16acc7bfe13178d3094bf636c[m
+Author: Gliro7 <glinsek.rok3@gmail.com>
+Date:   Thu Sep 15 20:54:29 2022 +0200
+
+    Add homepage, board games and cards
+
+[33mcommit aa82b7d13805cc030a29772735ace35c9698dcd3[m
+Author: Gliro7 <111294921+Gliro7@users.noreply.github.com>
+Date:   Thu Sep 15 20:45:50 2022 +0200
+
+    Initial commit
